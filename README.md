@@ -16,3 +16,10 @@ If you already have **Java**:
 * Right click on **My Computer**/**Ce PC**, choose **Proprieties**.
 * On the menu in the right click **Advance system parameters**, click **Environment variables**.
 * Look in the **System variables** (the below one), in **JAVA_HOME** change **Program Files* to **PROGRA~1**
+
+## Documents
+* Explication sur map-reduce rdd: https://spark.apache.org/docs/2.2.0/rdd-programming-guide.html#rdd-operations
+* Recommendation example: https://github.com/eBay/Spark/blob/master/examples/src/main/python/mllib/recommendation_example.py
+* Tuto de spark pour beginner: https://spark.apache.org/docs/2.2.0/rdd-programming-guide.html
+* Calculate avg in pyspark: https://stackoverflow.com/questions/29930110/calculating-the-averages-for-each-key-in-a-pairwise-k-v-rdd-in-spark-with-pyth
+* 
